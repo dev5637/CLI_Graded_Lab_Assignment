@@ -1,0 +1,8 @@
+gcc process_monitor.c -o process_monitor
+
+./process_monitor
+
+Parent Process: PID = 7439
+Child Process: PID = 7440
+Child is taking too long. Sending SIGTERM...
+Zombie process prevented.

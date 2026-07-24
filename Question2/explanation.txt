@@ -1,0 +1,5 @@
+The program creates a child process using fork().
+
+The parent process monitors the child and sends a SIGTERM signal if it becomes unresponsive.
+
+The wait() function ensures that the child process is cleaned up properly, preventing zombie processes.

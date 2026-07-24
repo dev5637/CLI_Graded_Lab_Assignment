@@ -1,0 +1,7 @@
+The shell script scans all files inside the submissions directory.
+
+It checks for duplicate submissions and copies unique files into the backup directory.
+
+A report is generated showing the number of processed files, duplicate files and backed-up files.
+
+Any errors generated during file copying are redirected into error.log using stderr redirection (2>>).

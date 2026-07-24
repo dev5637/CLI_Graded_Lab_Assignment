@@ -1,0 +1,15 @@
+./duplicate_backup.sh
+Report generated successfully.
+
+cat report.txt
+Files Processed : 3
+Duplicate Files : 0
+Files Backed Up : 3
+
+ls backup
+student1.txt
+student2.txt
+student3.txt
+
+cat error.log
+(No errors)

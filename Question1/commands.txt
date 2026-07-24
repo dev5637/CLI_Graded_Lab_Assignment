@@ -1,0 +1,35 @@
+mkdir submissions
+Created a directory to store sample assignment submissions.
+
+cd submissions
+Moved into the submissions directory.
+
+echo "Assignment of Student A" > student1.txt
+Created the first sample submission.
+
+cp student1.txt student2.txt
+Created a duplicate submission.
+
+echo "Assignment of Student C" > student3.txt
+Created another unique submission.
+
+find submissions
+Displayed all files inside the submissions folder.
+
+nano duplicate_backup.sh
+Created the shell script.
+
+chmod +x duplicate_backup.sh
+Made the shell script executable.
+
+./duplicate_backup.sh
+Executed the script to process the files.
+
+cat report.txt
+Displayed the generated report.
+
+ls backup
+Displayed all backed-up files.
+
+cat error.log
+Checked for any errors during execution.

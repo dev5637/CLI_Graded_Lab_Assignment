@@ -1,0 +1,11 @@
+gcc employee_records.c -o employee_records
+
+./employee_records
+
+Employee Records:
+101 Alice
+102 Bob
+
+cat employees.txt
+101 Alice
+103 Carol

@@ -1,0 +1,5 @@
+nano recovery.txt
+Created a document explaining the recovery mechanisms available in vi.
+
+ls
+Verified that all required files are present in the Question5 folder.

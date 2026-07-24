@@ -1,0 +1,8 @@
+nano server.log
+Created a sample server log file.
+
+grep "ERROR" server.log > error_report.txt
+Extracted all ERROR messages into a separate report file.
+
+cat error_report.txt
+Displayed the extracted ERROR messages.

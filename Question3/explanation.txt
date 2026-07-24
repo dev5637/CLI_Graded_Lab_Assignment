@@ -1,0 +1,4 @@
+The program uses Linux system calls to manage employee records.
+
+open() creates or opens the file, write() stores records, lseek() moves the file pointer to update specific records, read() retrieves data, and close() safely closes the file after processing.
+

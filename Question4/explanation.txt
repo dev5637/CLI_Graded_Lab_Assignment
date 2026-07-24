@@ -1,0 +1,7 @@
+The grep command filters only the ERROR messages from the log file.
+
+The > operator redirects the filtered output into error_report.txt.
+
+The tail -f command can be used to monitor a log file continuously in real time.
+
+The 2>/dev/null operator suppresses unnecessary error messages by redirecting standard error to /dev/null.

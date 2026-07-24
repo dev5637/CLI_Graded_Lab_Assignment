@@ -1,0 +1,3 @@
+This document explains different recovery mechanisms available in vi, including swap files, undo history, registers, backup files, and auto-recovery.
+
+The recommended recovery method is using the swap file with the command "vi -r filename" because it restores unsaved changes after a crash.

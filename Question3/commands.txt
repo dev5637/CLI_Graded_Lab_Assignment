@@ -1,0 +1,11 @@
+nano employee_records.c
+Created the C program using Linux system calls.
+
+gcc employee_records.c -o employee_records
+Compiled the source code into an executable.
+
+./employee_records
+Executed the program to create, write, update, and read employee records.
+
+cat employees.txt
+Displayed the contents of the employee records file.

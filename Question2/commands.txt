@@ -1,0 +1,8 @@
+nano process_monitor.c
+Created the C source file containing the program.
+
+gcc process_monitor.c -o process_monitor
+Compiled the C program into an executable file.
+
+./process_monitor
+Executed the program to create, monitor, and terminate a child process.
